@@ -1,3 +1,8 @@
+targets : Soal 2
+    
+    
+    
+
 #include <iostream> // menyertakan perpustakaan iostream untuk fungsi cin dan cout
 #include <algorithm> // menyertakan perpustakaan algorithm untuk fungsi max
 using namespace std; // mengaktifkan rentang nama fungsi std::cout dan std::cin
